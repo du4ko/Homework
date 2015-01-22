@@ -1,2 +1,2 @@
 # Homework
-Homework from Soft University plus some extra projects.
+Homework from SoftUniversity plus some extra projects.
