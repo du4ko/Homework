@@ -1,6 +1,0 @@
-C:\Users\viktor\Desktop\Homework\CSharp-OOP\Problem1.Personss\bin\Debug\Problem1.Personss.exe.config
-C:\Users\viktor\Desktop\Homework\CSharp-OOP\Problem1.Personss\bin\Debug\Problem1.Personss.exe
-C:\Users\viktor\Desktop\Homework\CSharp-OOP\Problem1.Personss\bin\Debug\Problem1.Personss.pdb
-C:\Users\viktor\Desktop\Homework\CSharp-OOP\Problem1.Personss\obj\Debug\Problem1.Persons.csprojResolveAssemblyReference.cache
-C:\Users\viktor\Desktop\Homework\CSharp-OOP\Problem1.Personss\obj\Debug\Problem1.Personss.exe
-C:\Users\viktor\Desktop\Homework\CSharp-OOP\Problem1.Personss\obj\Debug\Problem1.Personss.pdb
