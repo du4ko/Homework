@@ -79,12 +79,6 @@ namespace Defining_Classes
         {
             return "This is a person called " + this.name + ". He/she is " + this.age + " years old. His/her email address is " + (string.IsNullOrEmpty(this.email) ? "not set." : this.email);
         }
-        static void Main(string[] args)
-        {
-            Person Ivan = new Person("Ivan", 23, "nicework@abv.bg");
-            Console.WriteLine(Ivan);
-
-        }
-
+       
     }
 }
