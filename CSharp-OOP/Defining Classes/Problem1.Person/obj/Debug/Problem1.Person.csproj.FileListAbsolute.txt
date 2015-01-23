@@ -1,0 +1,6 @@
+C:\Users\viktor\Desktop\Homework\CSharp-OOP\Defining Classes\Problem1.Person\bin\Debug\Problem1.Person.exe.config
+C:\Users\viktor\Desktop\Homework\CSharp-OOP\Defining Classes\Problem1.Person\bin\Debug\Problem1.Person.exe
+C:\Users\viktor\Desktop\Homework\CSharp-OOP\Defining Classes\Problem1.Person\bin\Debug\Problem1.Person.pdb
+C:\Users\viktor\Desktop\Homework\CSharp-OOP\Defining Classes\Problem1.Person\obj\Debug\Problem1.Person.exe
+C:\Users\viktor\Desktop\Homework\CSharp-OOP\Defining Classes\Problem1.Person\obj\Debug\Problem1.Person.pdb
+C:\Users\viktor\Desktop\Homework\CSharp-OOP\Defining Classes\Problem1.Person\obj\Debug\Problem1.Person.csprojResolveAssemblyReference.cache
