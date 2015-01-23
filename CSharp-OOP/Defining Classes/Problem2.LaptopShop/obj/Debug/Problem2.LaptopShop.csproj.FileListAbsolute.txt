@@ -1,0 +1,3 @@
+C:\Users\viktor\Desktop\Homework\CSharp-OOP\Defining Classes\Problem2.LaptopShop\bin\Debug\CloneProject.exe.config
+C:\Users\viktor\Desktop\Homework\CSharp-OOP\Defining Classes\Problem2.LaptopShop\obj\Debug\CloneProject.exe
+C:\Users\viktor\Desktop\Homework\CSharp-OOP\Defining Classes\Problem2.LaptopShop\obj\Debug\CloneProject.pdb

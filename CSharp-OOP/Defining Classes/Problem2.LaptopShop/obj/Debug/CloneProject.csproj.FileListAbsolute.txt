@@ -1,0 +1,5 @@
+C:\Users\viktor\Desktop\Homework\CSharp-OOP\Defining Classes\CloneProject\bin\Debug\CloneProject.exe.config
+C:\Users\viktor\Desktop\Homework\CSharp-OOP\Defining Classes\CloneProject\bin\Debug\CloneProject.exe
+C:\Users\viktor\Desktop\Homework\CSharp-OOP\Defining Classes\CloneProject\bin\Debug\CloneProject.pdb
+C:\Users\viktor\Desktop\Homework\CSharp-OOP\Defining Classes\CloneProject\obj\Debug\CloneProject.exe
+C:\Users\viktor\Desktop\Homework\CSharp-OOP\Defining Classes\CloneProject\obj\Debug\CloneProject.pdb
