@@ -1,0 +1,1 @@
+Task is not finished,Storage Save/Load static methods to be writen!

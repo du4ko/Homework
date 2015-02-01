@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Problem2.Distance_Calculator
 {
-    class Point3D
+   public class Point3D
     {
         private double x;
         private double y;
