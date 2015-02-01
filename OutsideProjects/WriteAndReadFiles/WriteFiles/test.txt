@@ -1,0 +1,3 @@
+This is file created
+with the only purpose
+to be read by the console.
